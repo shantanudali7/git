@@ -1,1 +1,2 @@
 this is my Second file for git course
+adding more comments to the file2git 
